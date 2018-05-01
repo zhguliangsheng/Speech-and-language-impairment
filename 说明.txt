@@ -1,0 +1,4 @@
+final.py 最终的预测程序 可得到最终的预测准确率
+classify_test.py 该程序可得到每种方法的预测准确率，根据预测准确率的大小选取合适的分类方法进行组合预测。
+
+运行环境：python2.7 pandas scikit-learn
